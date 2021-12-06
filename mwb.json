@@ -1,4 +1,4 @@
-[{
+{
   "type": "service_account",
   "project_id": "miwabot",
   "private_key_id": "4dbdb16739f8e363484bf3786ee95af98d0d5801",
@@ -9,4 +9,4 @@
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/miwabot%40miwabot.iam.gserviceaccount.com"
-}]
+}
